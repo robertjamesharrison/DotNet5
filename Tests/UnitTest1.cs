@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace DotNet5.Tests
+namespace Tests
 {
     public class UnitTest1
     {
